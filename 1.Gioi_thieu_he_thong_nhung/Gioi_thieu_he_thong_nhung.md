@@ -1,4 +1,6 @@
-# Giới thiệu hệ thống nhúng  <!-- omit in toc -->
+<p align="center">
+  <img src="images/cover.jpg">
+</p>
 
 - [1. Giới thiệu](#1-giới-thiệu)
 - [2. Hệ thống nhúng là gì ?](#2-hệ-thống-nhúng-là-gì-)
@@ -29,7 +31,9 @@ Do một người thì gần như không thể ôm trọn cả thiết kế ph�
 ## 3.1. Phần cứng
 Phần cứng có thể hiểu là cái gì cứng cứng vào nhìn thấy được ấy 😤. Ví dụ như là thiết kế 1 board mạch với các linh kiện điện tử: điện trở, tụ điện, cuộn cảm,....  như cái hình dưới này nè
 
-![Hardware](images/Green-Printed-Circuit-Board.jpg)
+<p align="center">
+  <img width="460" src="images/Green-Printed-Circuit-Board.jpg">
+</p>
 
 Để theo mảng này thì bạn phải nắm cực kì vững kiến thức về cách hoạt động của các linh kiện điện tử, đọc hiểu được datasheet của con chip (cái cục đen đen to nhất ấy),... và nhiều thứ cao cấp hơn nữa mà mình cũng không biết (do thấy khó quá nên mình bỏ không đu theo nữa )
 
@@ -38,7 +42,9 @@ Phần cứng có thể hiểu là cái gì cứng cứng vào nhìn thấy đư
 
 Trái ngược với phần cứng thì phần mềm là những thứ mà bạn không thấy được, ví dụ như cơ thể người phần cứng là tay, chân,... thì phần mềm là tinh thần, suy nghĩ của bản thân đấy (cái gì lúc mềm lúc cứng thì là ngoại lệ rồi nhé 😶). Để đú đởn như phần cứng thì mình cũng chụp ảnh một đoạn code trong lúc thực tập của mình, nhìn giống nắc cơ à nhầm hacker không các bạn
 
-![Hardware](images/Software.png)
+<p align="center">
+  <img width="700" src="images/Software.png">
+</p>
 
 Những bạn theo mảng này thì xác định sẽ ngồi trước máy tính 1 ngày 8 tiếng liên tục nha (do lúc trước mình nghĩ làm nhúng phần mềm thì ít ngồi trước máy tính, vào làm thì mới biết ngồi sấp mặt lợn luôn không khác gì lập trình viên cả 🙏), đồng thời các bạn phải học giỏi lập trình ngôn ngữ C và C++ nữa thì mới đu theo được. 
 
